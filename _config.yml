@@ -32,5 +32,5 @@ google_analytics:
 google_analytics_domain:
 
 logo:
-  url: /img/
+  url: /img/logo.svg
   text: logo
