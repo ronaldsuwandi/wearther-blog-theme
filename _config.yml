@@ -1,0 +1,36 @@
+menu:
+  Home: /
+  Archives: /archives
+
+widgets:
+- search
+- menu
+- subscribe
+- recent_posts
+- category
+- tag
+
+excerpt_link: Read More...
+
+share:
+  facebook: true
+  twitter: true
+  google: true
+  linkedin: true
+
+subscribe:
+  #facebook requires app id to display like box
+  facebook:
+  facebookid:
+  #twitter account
+  twitter:
+  #path to feed
+  feed: /atom.xml
+
+google_analytics:
+# Fill this one to allow tracking for multiple subdomains
+google_analytics_domain:
+
+logo:
+  url: /img/
+  text: logo
